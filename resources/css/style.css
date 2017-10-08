@@ -1,6 +1,9 @@
 html {
-  font-family: 'Work Sans', sans-serif;
   font-size: 14px;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
   background-color: rgb(255, 242, 242);
   color: rgb(32, 64, 86);
 }
